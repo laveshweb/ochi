@@ -11,7 +11,7 @@ const Landingpage = () => {
                 <h1 className='uppercase font-sans font-bold  leading-none tracking-tighter relative top-1  lg:h-[100px] scale-y-[1.30] max-[400px]:-translate-y-[3px]'>We Create</h1>
                 <div className='relative left-0 sm:left-2 flex'>
                   <img src={LandingPage} alt="" className=' 
-              w-[80px]  max-[400px]:h-[48px] max-[440px]:h-[55px]  sm:w-[110px] sm:h-auto  md:w-[130px] lg:w-[160px]  relative top-[1px] min-[400px]:top-1 lg:top-0 lg:mt-3 p-1  rounded-xl ' />
+              w-[80px]  max-[400px]:h-[48px] max-[440px]:h-[55px]  sm:w-[110px] sm:h-auto  md:w-[130px] lg:w-[160px]  relative top-[px] min-[400px]:top-1 lg:top-0 lg:mt-3 p-1  rounded-xl ' />
                 <h1 className='uppercase font-sans font-bold  -leading-[5vw] tracking-tighter lg:h-[100px] scale-y-[1.30]'>Eye-Opening</h1>
                 </div>
                 <h1 className='uppercase font-sans font-bold -leading-[2vw] tracking-tighter relative -top-4   min-[765px]:top-0 lg:h-[100px]  scale-y-[1.30] max-[400px]:mt-[5px]'>Presentations</h1>
