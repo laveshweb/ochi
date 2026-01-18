@@ -8,10 +8,9 @@ const Landingpage = () => {
     <div className="w-full ">
         <div className="Text-Structure mt-20 px-3 sm:px-7 lg:px-18">
             <div className="masker max-[400px]:text-[32px]  text-[40px]  min-[440px]:text-[50px] sm:text-[60px] md:text-8xl  font-['Founders_Grotesk_X-Cond_Bold'] ">
-                <h1 className='uppercase font-sans font-bold  leading-none tracking-tighter relative top-1  lg:h-[100px] scale-y-[1.30] max-[400px]:-translate-y-[3px]'>We Create</h1>
+                <h1 className='uppercase font-sans font-bold  leading-none tracking-tighter relative top-1  lg:h-[100px] scale-y-[1.30] '>We Create</h1>
                 <div className='relative left-0 sm:left-2 flex'>
-                  <img src={LandingPage} alt="" className=' 
-              w-[80px]  max-[400px]:h-[48px] max-[440px]:h-[55px]  sm:w-[110px] sm:h-auto  md:w-[130px] lg:w-[160px]  relative top-[px] min-[400px]:top-1 lg:top-0 lg:mt-3 p-1  rounded-xl ' />
+                  <img src={LandingPage} alt="" className='w-[80px] max-[400px]:h-[48px] max-[440px]:h-[55px]  sm:w-[110px] sm:h-auto  md:w-[130px] lg:w-[160px]  relative -bottom-[0.5px] min-[400px]:top-1 lg:top-0 lg:mt-3 p-1  rounded-xl ' />
                 <h1 className='uppercase font-sans font-bold  -leading-[5vw] tracking-tighter lg:h-[100px] scale-y-[1.30]'>Eye-Opening</h1>
                 </div>
                 <h1 className='uppercase font-sans font-bold -leading-[2vw] tracking-tighter relative -top-4   min-[765px]:top-0 lg:h-[100px]  scale-y-[1.30] max-[400px]:mt-[5px]'>Presentations</h1>
